@@ -1,15 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CV (Anastasia Paksiutkina)</title>
-</head>
 <body>
     <header>
         <h1>Anastasia Paksiutkina</h1>
         <h2>Junior Front-end Developer</h2>
     </header>
+        <section>
+        <h3>About me</h3>
+        <p>I am a junior front-end developer with an extensive former experience as a project manager in various projects. Now I am eager to develop in the web field. </p>
+    </section>
     <section>
         <h3>Contacts</h3
         <ul>
@@ -18,10 +15,6 @@
             <li>tg: @anpaks</li>
             <li><a href="https://github.com/anpaks">GitHub</a></li>
         </ul>
-    </section>
-    <section>
-        <h3>About me</h3>
-        <p>I am a junior front-end developer with an extensive former experience as a project manager in various projects. Now I am eager to develop in the web field. </p>
     </section>
     <section>
         <h3>Code Example</h3>
