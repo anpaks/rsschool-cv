@@ -1,1 +1,1 @@
-{Press here to open my CV}[https://anpaks.github.io/rsschool-cv/cv]
+https://anpaks.github.io/rsschool-cv/cv
