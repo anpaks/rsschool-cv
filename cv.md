@@ -20,6 +20,14 @@
         </ul>
     </section>
     <section>
+        <h3>About me</h3>
+        <p>I am a junior front-end developer with an extensive former experience as a project manager in various projects. Now I am eager to develop in the web field. </p>
+    </section>
+    <section>
+        <h3>Code Example</h3>
+        <p>some code</p>
+    </section>
+    <section>
         <h3>Professional Experience</h3>
         <div>
             <h4>Project Manager</h4>
@@ -88,13 +96,7 @@
             <p>Cambridge Assessment English | 2021</p></li>
             <li><h4>Translation and Translation studies</h4>
             <p>International Institute of Economics and Law | 2012 - 2018</p></li>
-            <li></li>
         </ul>
     </section>
-
-
-        
-
-
 </body>
 </html>
