@@ -8,7 +8,7 @@
         <p>I am a junior front-end developer with an extensive former experience as a project manager in various projects. Now I am eager to develop in the web field. </p>
     </section>
     <section>
-        ###Contacts###
+        <h3>Contacts</h3>
         <ul>
             <li>mob: +7 (926) 178 5437</li>
             <li>mail: anastpaks@gmail.com</li>
