@@ -1,5 +1,6 @@
 <body>
     <header>
+    <img src='cv-photo.jpeg alt='my photo>
         <h1>Anastasia Paksiutkina</h1>
         <h2>Junior Front-end Developer</h2>
     </header>
